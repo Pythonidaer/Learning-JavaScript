@@ -1,0 +1,17 @@
+#list1 {
+ display: none;
+}
+
+#list2 {
+  display: none;
+}
+
+button {
+  font-size: 100%;
+  color: white;
+  cursor: pointer; /*https://css-tricks.com/almanac/properties/c/cursor/*/
+  border: 1px solid black;
+  border-radius: 10%;
+  background-color: black;
+  padding: 10px;
+}
